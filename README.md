@@ -1,4 +1,4 @@
 # JSWatermelonTeam.github.io
-Music Shop project 
+Music Shop 
 Project hosting:
 https://jswatermelonteam.github.io/index.html
